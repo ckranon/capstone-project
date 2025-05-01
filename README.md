@@ -25,9 +25,6 @@ This project investigates the vulnerability of machine learning models in the fi
 - [Methodology](#-methodology)  
 - [Results & Discussion](#-results--discussion)  
 - [Conclusion](#-conclusion)  
-- [Reproducibility](#-reproducibility)  
-- [References](#-references)  
-- [Contact](#-contact)  
 
 ---
 
