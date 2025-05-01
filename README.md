@@ -78,13 +78,3 @@ The poisoned dataset significantly reduced model performance, demonstrating the 
 The paper argues for greater attention to **adversarial robustness** in the financial industry. It reveals how easy it is to introduce adversarial bias in datasets, especially those relying on tabular data in credit risk scoring.
 
 ---
-
-## ✅ Reproducibility
-
-To replicate the analysis:
-
-1. Clone the EDA repository:  
-   [https://github.com/ckranon/capstone-project-eda](https://github.com/ckranon/capstone-project-eda)
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
